@@ -1,2 +1,5 @@
+Integrate CGAL into Houdini
 # CGAL-Houdini
-Integrate CGAL into Houdini  
+How to install!
+
+  
